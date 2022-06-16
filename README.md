@@ -6,3 +6,6 @@ Projects made in chronological order:
 2. Genshin Gacha
 3. Wordle
 4. Minesweeper
+
+Copy and paste these codes into your intepreter, 
+.py files in a same folder means that these files are required for that project to work.
